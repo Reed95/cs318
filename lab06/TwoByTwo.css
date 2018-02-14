@@ -1,8 +1,8 @@
 .square {
-        width: 100px;
-        height: 100px;
-        background-color: orange;
-        display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    display: inline-block;
         }
 
 a:visited {
