@@ -61,6 +61,7 @@
 .card {
     vertical-align: text-top;
     float: left;
+    padding: 10px;
     }
 
 .card img {
@@ -74,6 +75,14 @@
     font-size: 12pt;
     text-align: center;
     font-weight: bold;
+}
+
+p { 
+    font-family: helvetica;
+    color: black;
+    font-size: 10pt;
+    text-align: left;
+    font-weight: light;
 }
 
 
