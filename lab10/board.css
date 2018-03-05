@@ -17,6 +17,7 @@ body {
     text-align: center;
     display: inline-block;
     box-shadow: -10px 10px 10px maroon;
+    margin-left: 20px;
 }
 
 #cat {
