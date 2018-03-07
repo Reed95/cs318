@@ -16,7 +16,7 @@ body {
     font-size: 20pt;
     text-align: center;
     display: inline-block;
-    box-shadow: -10px 10px 10px maroon;
+    box-shadow: -10px 10px 10px rgb(78, 45, 14);
     margin-left: 20px;
 }
 
@@ -29,8 +29,8 @@ body {
   }
 
 .pushpin {
-    width: 100px;
-    height: auto;
+    width: auto;
+    height: 100px;
     position: absolute;
     margin-left: 200px;
     
