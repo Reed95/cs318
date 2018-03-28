@@ -1,0 +1,39 @@
+*{
+    padding: 10px;
+}
+
+body{
+    margin: 0px;
+    width: 95%;
+}
+.photo {
+    width: 400px;
+    
+}
+
+.quote{
+    width: 100px;
+    height: 150px;
+    background-color: rgba(105, 60, 8, 0.281);
+    border-radius: 25%;
+    position: relative;
+    
+
+}
+
+    
+}
+#A {
+    float: left;
+}
+#B {
+    float: right;
+}
+
+#C {
+    float: left;
+}
+
+#D {
+    float: right;
+}
