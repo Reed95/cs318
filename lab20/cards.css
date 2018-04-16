@@ -15,7 +15,7 @@ image{
     height:100px;
 }
 
-#checkBox{
+.checkBox{
     position:absolute;
     margin-top:700px;
     margin-left:15px;
