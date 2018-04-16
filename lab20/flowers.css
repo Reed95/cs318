@@ -38,9 +38,13 @@
         transition-duration: .5s;
         transition-timing-function: ease-in-out;
     }
-    
-    a {
-        position: absolute;
-        bottom: 0;
-        right: 0;
+
+    #reference{
+        position:absolute;
+        bottom:0;
+        right:0;
+        margin-right:10%;
+        margin-bottom:5%;
+        font-family:helvetica;
+        font-size:20pt;
     }

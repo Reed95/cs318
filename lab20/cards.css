@@ -22,7 +22,7 @@ image{
 }
 
 #checkBox:checked,#checkBox:checked+img{
-    transform:translate(0px, 150px);
+    transform:translate(0px, 75px);
     transition-property:transform;
     transition-duration:1s;
     transition-timing-function:ease-in;
@@ -30,5 +30,5 @@ image{
 }
 
 .hand{
-    width:75%;
+    width:60%;
 }
