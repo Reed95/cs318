@@ -1,0 +1,46 @@
+
+* {
+    box-sizing: border-box;
+}
+
+#flowerbed{
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+}
+
+.flower{  
+    width: 129px;
+    height: 129px;
+    float: left;
+    margin: 10px;
+    position: relative;
+    }
+
+
+    .flower:nth-child(4n+1){
+        clear: both;
+    }
+    
+    #flowerbed:hover > img {
+        opacity: 0.2;
+        z-index: 0;
+    }
+    
+    #flowerbed img:hover {
+        opacity: 1;
+        width: 196px;
+        height: 196px;
+        transform: rotate(180deg);
+        z-index: 1;
+        transition-property: opacity, transform, z-index;
+        transition-duration: .5s;
+        transition-timing-function: ease-in-out;
+    }
+    
+    a {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
