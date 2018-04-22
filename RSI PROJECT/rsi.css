@@ -128,12 +128,13 @@
 }
 
 body{
-    background: linear-gradient(to bottom, rgb(226, 255, 62) , darkgreen);
+    background: linear-gradient(to bottom, rgb(177, 202, 33) , darkgreen);
     background-repeat: no-repeat;
     background-size: cover;
     width:960px;
     height:100%;
     font-family:helvetica;
+    margin-left:7.5%;
 }
 
 #headimg{
@@ -146,13 +147,15 @@ body{
 }
 
 #info{
-    width:91%;
+    width:88%;
     background-color:white;
     position: relative;
     left:17%;
     margin-bottom:20px;
     text-align: left;
     padding:15px;
+    padding-left:30px;
+    padding-right:30px;
     border-radius:15pt;
     line-height:30pt;
     z-index:0;
@@ -242,4 +245,155 @@ hr{
     position:relative;
     left:16%;
     bottom:30%;
+}
+
+#amusm128{
+    float:right;
+    padding-top:260px;
+    padding-right:100px;
+}
+
+#specs-stdrds td{
+    width:120px;
+    padding-left:100px;
+    }
+
+#indent-list{
+    padding-left:100px;
+    margin-top:-20px;
+}
+
+#apx72trans{
+    float:right;
+    position:relative;
+    padding-top:200px;
+    padding-right:50px;
+    width:250px;
+    
+}
+
+#subtitle{
+    position:relative;
+    margin-top:-20px;
+    font-style:italic;
+}
+
+.sidepic{
+    float:right;
+    padding-right:30px;
+    width:270px;
+}
+
+#skinnycol{
+    width:60%;
+    text-align:left;
+    display:inline-block;
+    margin-bottom:30px;
+}
+
+.sidepic#testset{
+    padding-top:50px;
+}
+
+.sidepic#controller{
+    padding-top:50px;
+    
+}
+
+.sidepic#testbox{
+    padding-top:70px;
+}
+
+.subtitle#testbox{
+    position:relative;
+    left: 550px;
+    top:200px;
+}
+
+#adapters{
+    position: relative;
+    left:500px;
+    top:-200px;
+}
+
+#indent-list li li{
+    margin-left:100px;
+}
+
+.sidepic#adapters{
+    top:150px;
+    left:-10px;
+}
+.subtitle#adapters{
+    top:310px;
+    left:680px;
+}
+
+.personcol1#brian{
+    left:130px;
+}
+
+#adaptcables{
+    position:relative;
+    top:-140px;
+}
+
+.subtitle#adaptcables{
+    top:-30px;
+    left:350px;
+}
+
+.sidepic#ky850urn{
+    position:relative;
+    top:15px;
+}
+
+.sidepic#ky850urn2{
+    position:relative;
+    top:50px;
+}
+
+.subtitle#interior{
+   position:relative;
+   left:620px;
+   top:30px;
+}
+
+.parts{
+    width:100%;
+    line-height:25px;
+    margin-bottom:50px;
+}
+.parts td{
+    width:200px;
+    padding-left:5px;
+}
+
+.parts tr:nth-child(even){
+    background-color:rgb(190, 190, 190);
+    
+}
+
+.sidepic#fr1{
+    position:relative;
+    
+    
+}
+
+.sidepic#fr2{
+    position:relative;
+    top:-220px;
+   
+}
+
+.sidepic#fr3{
+    position:relative;
+    left:300px;
+    
+}
+
+.objectives{
+    width:100%;
+      
+   
 }
