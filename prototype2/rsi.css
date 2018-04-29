@@ -406,7 +406,6 @@ hr{
 
 .subtitle#oldmarker{
     position:relative;
-    left:165px;
     top:-1090px;
    
 }
@@ -437,4 +436,297 @@ hr{
 .full#sec{
     position:relative;
     top:50px;
+}
+
+.sidepic#rsimarker{
+    position:relative;
+    width:150px;
+    height:auto;
+    top:-40px;
+}
+
+.subtitle#rsimarker{
+    position:relative;
+    top:230px;
+    left:-190px;
+}
+.centerpic#production{
+    position:relative;
+    top:-20px;
+}
+.subtitle#production{
+    position:relative;
+    top:12px;
+    left:-493px;
+}
+
+.centerpic#teradyne{
+    position:relative;
+    width:170px;
+    height:auto;
+    left:-115px;
+    
+}
+
+.subtitle#teradyne{
+    position:relative;
+    left:-290px;
+    top:30px;
+    
+}
+.centerpic#huntron{
+    position:relative;
+    width:200px;
+    height:auto;
+    top:-50px;
+}
+
+.subtitle#huntron{
+    position:relative;
+    left:-200px;
+    top:-20px;
+}
+.centerpic#ATE{
+    position:relative;
+    height:170px;
+    left:-70px;
+    top:20px;
+}
+
+.subtitle#ATE{
+    position:relative;
+    left:610px;
+    top:-140px;
+}
+
+.centerpic#lasar{
+    position:relative;
+    width:200px;
+    top:70px;
+}
+
+.subtitle#lasar{
+    position:relative;
+    top:100px;
+    left:-200px;
+}
+
+.centerpic#lasar-two{
+    position:relative;
+    width:330px;
+    top:40px;
+    left:-70px;
+}
+
+.subtitle#lasar-two{
+    position:relative;
+    left:-400px;
+    top:100px;
+}
+
+.centerpic#orcad{
+    position:relative;
+    width:200px;
+    left:600px;
+    top:-100px;
+}
+
+.subtitle#orcad{
+    position:relative;
+    left:400px;
+    top:-60px;
+}
+
+.centerpic#thermotron{
+    position:relative;
+    width:300px;
+    top:310px;
+}
+
+.subtitle#thermotron{
+    position:relative;
+    top:340px;
+    left:-130px;
+}
+
+.centerpic#tektronix{
+    position:relative;
+    width:500px;
+    left:330px;
+    top:-190px;
+}
+
+.subtitle#tektronix{
+    position:relative;
+    left:330px;
+    top:-470px;
+
+}
+
+.centerpic#anritsu{
+    position:relative;
+    width:230px;
+    left:-430px;
+    top:-200px;
+}
+
+.subtitle#anritsu{
+    position:relative;
+    top:-470px;
+    left:-60px;
+}
+
+.centerpic#agilent{
+    position:relative;
+    width:300px;
+    left:330px;
+    top:-135px;
+}
+
+.subtitle#agilent{
+    position:relative;
+    top:-220px;
+    left:-30px;
+}
+
+#photodiv{
+    height:700px;
+}
+
+.sustainpics#teradyne{
+    position:relative;
+    left:505px;
+    bottom:110px;
+    
+}
+
+.subtitle#teradynetwo{
+    position:relative;
+    left:210px;
+    top:-320px;
+}
+
+.sustainpics#huntron{
+    position:relative;
+    top:20px;
+    left:-260px;
+    width:350px;
+}
+
+.subtitle#huntrontwo{
+    position:relative;
+    left:-500px;
+    top:-200px;
+}
+
+.sustainpics#lasar{
+    position:relative;
+    left:510px;
+    
+    
+}
+
+.subtitle#lasartwo{
+    position:relative;
+    top:610px;
+    left:500px;
+}
+
+.centerpic#flags{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:20px;
+}
+
+#markertable{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:70px;
+    width:550px;
+}
+
+#markertable td{
+    padding-left:10px;
+}
+
+#markertable tr:nth-child(even){
+    background-color:rgb(179, 179, 179);
+}
+#markertable th{
+    font-family:helvetica;
+    width:250px;
+}
+
+.centerpic#hazardone{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+    margin-bottom:30px;
+    margin-top:30px;
+}
+
+.centerpic#hazardtwo{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+
+    margin-bottom:50px;
+}
+
+.title{
+    position:relative;
+    left:40%;
+    margin-bottom:20px;
+    font-weight:bold;
+    font-size:15pt;
+    text-decoration:underline;
+}
+
+.centerpic#clearlaneone{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:70%;
+    margin-bottom:30px;
+    margin-top:30px;
+    
+}
+
+.centerpic#clearlanetwo{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:50px;
+
+}
+
+.centerpic#minefieldone{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+    margin-bottom:50px;
+    width:70%;
+}
+
+.centerpic#minefieldtwo{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:50px;
+    width:90%;
+}
+
+.centerpic#droptest{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:80%;
+}
+
+.title#droptest{
+    left:30%;
 }
